@@ -80,4 +80,4 @@
 
 ![Snake animation](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/snake.svg)
 
-![packman gif](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/packman.svg)
+![Pacman animation](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/packman.svg)
