@@ -78,7 +78,8 @@
 </div>
 
 
-![Snake animation](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/snake.svg)
-
-![Pacman animation](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/snake.svg" alt="Snake animation" width="100%">
+  
+  <img src="https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg" alt="Pacman animation" width="100%">
+</div>
