@@ -76,3 +76,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizkyadtyaf&theme=nightowl" alt="GitHub Streak"/>
   </a>
 </div>
+
+
+![snake gif](https://github.com/rizkydev/rizkydev/blob/output/snake.svg)
+![packman gif](https://github.com/rizkydev/rizkydev/blob/output/packman.svg)
