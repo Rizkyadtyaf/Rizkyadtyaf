@@ -80,4 +80,5 @@
 
 ![Snake animation](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/snake.svg)
 
-![Pacman animation](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/packman.svg)
+![Pacman animation](https://raw.githubusercontent.com/rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg)
+
