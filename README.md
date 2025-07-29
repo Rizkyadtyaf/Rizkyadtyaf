@@ -1,5 +1,18 @@
 ![Header](images/github-header-image.png)
 
+<div align="center">
+  <h1>👋 Hai, Saya Rizky Aditya!</h1>
+  <p>Web Developer | Mobile Developer</p>
+</div>
+
+
+## 🧐 About Me
+- 🔭 Currently working on: Mobile App Project
+- 🌱 Currently learning: Flutter & React Native
+- 💬 Ask me about: Web Development, Mobile Apps
+- 📫 Contact me at: rizky858599@email.com
+- ⚡ Fun fact: I like coding while listening to music
+
 ### My Skills
 <p float="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -44,16 +57,14 @@
 </p>
 
 
+
 ### Contact with me🔥
 <p float="left">
   <a href="https://www.instagram.com/rizkyadtyaf/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/rizky-aditya-210a89297/">
+  <a href="https://www.linkedin.com/in/rizky-aditya-friatna-210a89297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rizkyadtyaf">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
    <a href="https://x.com/Rizkyadty13">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
@@ -78,12 +89,5 @@
 </div>
 
 <img src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/snake.svg" alt="Snake animation" />
-<img src="pacman contribution graph" src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg">
-</picture>
 
 
