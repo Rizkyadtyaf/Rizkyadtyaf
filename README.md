@@ -77,10 +77,13 @@
   </a>
 </div>
 
+<img src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/snake.svg" alt="Snake animation" />
+<img src="pacman contribution graph" src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg">
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/snake.svg" alt="Snake animation" width="100%">
-  
-  <img src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg" alt="Pacman animation" width="100%">
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rizkyadtyaf/Rizkyadtyaf/output/pacman-contribution-graph.svg">
+</picture>
+
 
