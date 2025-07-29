@@ -78,5 +78,5 @@
 </div>
 
 
-![snake gif](https://github.com/rizkydev/rizkydev/blob/output/snake.svg)
-![packman gif](https://github.com/rizkydev/rizkydev/blob/output/packman.svg)
+![snake gif](https://github.com/Rizkyadtyaf/Rizkyadtyaf/blob/output/snake.svg)
+![packman gif](https://github.com/Rizkyadtyaf/Rizkyadtyaf/blob/output/packman.svg)
